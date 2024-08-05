@@ -31,11 +31,11 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Built with
 
-- CSS Grid
+- Flexbox
 
 ### What I learned
 
-Practice with CSS Grid and dynamic sizing
+Practice with Flexbox and dynamic sizing
 
 ### Continued development
 
